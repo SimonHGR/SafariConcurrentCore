@@ -1,0 +1,6 @@
+*class
+*iml
+*xml
+src/test
+.idea
+target/
