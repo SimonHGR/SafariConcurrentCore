@@ -1,0 +1,30 @@
+Resources
+---------
+
+Join me on LinkedIn: https://www.linkedin.com/in/simonhgroberts/
+
+Subscribe to my YouTube channel: https://www.youtube.com/@DancingCloudServices
+ - Install JDK & IntelliJ: https://www.youtube.com/watch?v=CJ-8mdz8SAM&t=3s
+
+Sign up for Heinz Kabutz's monthly "favorite courses on O'Reilly" email:
+  https://javaspecialists.eu/courses/oreilly/
+(You might want to join his "Java Specialists" email newsletter too!)
+
+Java videos:
+ - Functional programming with Java:
+   https://learning.oreilly.com/videos/functional-programming-for/9780134778235
+ - Up and Running with the Java Platform Module System:
+   https://learning.oreilly.com/videos/up-and-running/9780137475216/
+
+Java Ranch / Code Ranch
+ - Forum site that's actually helpful to learners
+ - JavaRanch.com
+
+Contact me directly at simon@dancingcloudservices.com if your 
+organization might be interested in customized training or course
+development. I work in Java, Scala, JavaScript, Python, Go, and
+address OO design, functional design, and software architecture 
+topics, and am happy to deliver training either onsite or web-based,
+or to build courses and training material in video or other formats.
+
+---
